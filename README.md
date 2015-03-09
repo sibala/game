@@ -1,5 +1,5 @@
-Boulder Dash test program
-==================
+Game in JavaScript
+------------------
 A school project from BTH.
 
 
